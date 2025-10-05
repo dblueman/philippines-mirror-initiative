@@ -1,34 +1,33 @@
-# Overview
+# Use-cases
 
-## User
+### Goal
+The product aims to improve access to open source software within the Philippines by providing a low-latency, distributed mirror for Debian, Ubuntu, Fedora and other Open Source software repositories
+
+### Users
 - Students
-- Private Companies
+- Teachers
+- Government
+- Private companies
 
-## Discovery
+### Discovery
 This product aims to integrate with DOST systems
 
-## Entry
+### Entry
 This product comes into play when a user attempts to
 download and/or update open source software found within
 their computer systems
 
-## Step 1
+### Step 1
 Develop Mirror Solution
 
-## Step 2
-Engage and form a legal agreement with DOST VII
+### Step 2
+Engage with DOST VII and other possible partners
 
-## Step 3
+### Step 3
 Configure & Deploy system
 
-## Step 4
-Quantify Improvements
+### Step 4
+Quantify improvements via 
 
-## Goal
-The product aims to improve access to open source
-software within the Philippines by providing a
-low-latency mirror for Debian, Ubuntu, etc.
-software repositories
-
-### Words
+# Words
 mirroring open-source education accessibility outreach enablement empowerment community elevation
