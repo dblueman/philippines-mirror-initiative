@@ -29,3 +29,6 @@ The product aims to improve access to open source
 software within the Philippines by providing a
 low-latency mirror for Debian, Ubuntu, etc.
 software repositories
+
+### Words
+mirroring open-source education accessibility outreach enablement empowerment community elevation
